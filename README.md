@@ -28,4 +28,9 @@ The file naming rule is: UserID + survey.csv.
 The players' answers corresponding to the GUESS Questionnaire are shown in Table 5 of our paper.
 
 # Prompt Questionnaire
+
+-- evaluator.csv
+
+-- Prompt.docx
+
 Human evaluator.csv contains all the data we collected for Prompt.docx, which includes all the questions pertaining to our Prompt 1 of our paper.
