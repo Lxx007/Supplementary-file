@@ -1,7 +1,7 @@
-# Data
-Data for Review
+# Supplementary file
+Supplementary file for Review
 
-Data For Paper "Enhancing Player Experience in an FPS with Dynamic Audio Cue Adjustment Based on Gaussian Progress Regression"
+Supplementary file for the paper "Enhancing Player Experience in an FPS with Dynamic Audio Cue Adjustment Based on Gaussian Progress Regression"
 
 This repository consists of one folder inside with four folders.
 
