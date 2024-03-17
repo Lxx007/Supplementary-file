@@ -1,5 +1,5 @@
 # Supplementary file
-Supplementary file for Review
+Supplementary file for review
 
 Supplementary file for the paper "Enhancing Player Experience in an FPS with Dynamic Audio Cue Adjustment Based on Gaussian Progress Regression"
 
