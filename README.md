@@ -1,5 +1,4 @@
-# Supplementary file
-Supplementary file for review
+# Enhancing Player Experience in an FPS with Dynamic Audio Cue Adjustment Based on Gaussian Progress Regression
 
 Supplementary file for the paper "Enhancing Player Experience in an FPS with Dynamic Audio Cue Adjustment Based on Gaussian Progress Regression"
 
